@@ -14,7 +14,7 @@ Use this checklist to track your progress 🚀.
 - [ ] **Design a Hotel Management / Booking System**
 - [ ] **Design a Ride-Sharing System (like Uber/Ola)**
 - [ ] **Design a Food Delivery App (like Swiggy/Zomato)**
-- [ ] **Design a Splitwise App**(https://www.programiz.com/online-compiler/8jCcG7cRCvhV9)
+- [ ] [Design a Splitwise App](https://www.programiz.com/online-compiler/8jCcG7cRCvhV9)
 - [ ] **Design a Vending Machine**
 - [ ] **Design a Chess / Snake & Ladder Game**
 
